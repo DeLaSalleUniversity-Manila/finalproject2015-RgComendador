@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <EditText android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:id="@+id/editTextName"
+        android:layout_marginTop="10dip"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"></EditText>
+
+    <EditText android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:id="@+id/editTextHighScore"
+        android:layout_marginTop="10dip"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"></EditText>
+
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dip"
+        android:id="@+id/buttonSaveHighScore"
+        android:text="Save High Score"></Button>
+
+    <WebView android:id="@+id/webview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_margin="10dip" />
+</LinearLayout>

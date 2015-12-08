@@ -1,0 +1,149 @@
+<resources>
+    <string name="title_activity_rankings">Rankings</string>
+    <string name="app_name">Muni-Muni</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tab1">Tab1</string>
+    <string name="title_activity_tab2">Tab2</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="title_activity_abot">AbotActivity</string>
+    <string name="title_activity_salamat">SalamatActivity</string>
+    <string name="title_activity_pamamalakad">PamamalakadActivity</string>
+    <string name="title_activity_panis">PanisActivity</string>
+    <string name="title_activity_dagat">DagatActivity</string>
+    <string name="title_activity_gunita">GunitaActivity</string>
+    <string name="title_activity_tab3">Tab3</string>
+    <string name="title_activity_tab4">Tab4</string>
+    <string name="title_activity_tab5">Tab5</string>
+    <string name="title_activity_explorer_fragment">ExplorerFragment</string>
+    <string name="title_activity_first_tab">FirstTab</string>
+    <string name="title_activity_second_tab">SecondTab</string>
+    <string name="title_activity_levels">Levels</string>
+    <string name="title_activity_level1">Level1</string>
+    <string name="title_activity_level2">Level2</string>
+    <string name="title_activity_level3">Level3</string>
+    <string name="title_activity_level4">Level4</string>
+    <string name="title_activity_level5">Level5</string>
+    <string name="title_activity_kaso">KasoActivity</string>
+    <string name="title_activity_pambahay">PambahayActivity</string>
+    <string name="title_activity_balahibo">BalahiboActivity</string>
+    <string name="title_activity_opera">OperaActivity</string>
+    <string name="title_activity_patay">PatayActivity</string>
+    <string name="title_activity_pikon">PikonActivity</string>
+    <string name="title_activity_abubot">AbubotActivity</string>
+    <string name="title_activity_bahaghari">BahaghariActivity</string>
+    <string name="title_activity_pooksapot">PooksapotActivity</string>
+    <string name="title_activity_ilalim">IlalimActivity</string>
+    <string name="title_activity_makisig">MakisigActivity</string>
+    <string name="title_activity_bisperas">BisperasActivity</string>
+    <string name="title_activity_indak">IndakActivity</string>
+    <string name="title_activity_diskwento">DiskwentoActivity</string>
+    <string name="title_activity_balintiyak">BalintiyakActivity</string>
+    <string name="title_activity_unan">UnanActivity</string>
+    <string name="title_activity_gigil">GigilActivity</string>
+    <string name="title_activity_likha">LikhaActivity</string>
+    <string name="title_activity_dugongbughaw">DugongbughawActivity</string>
+    <string name="title_activity_alsa">AlsaActivity</string>
+    <string name="title_activity_pasma">PasmaActivity</string>
+    <string name="title_activity_salumpuwit">SalumpuwitActivity</string>
+    <string name="title_activity_takipsilim">TakipsilimActivity</string>
+    <string name="title_activity_tampo">TampoActivity</string>
+    <string name="title_activity_pop_up_window_demo">PopUpWindowDemoActivity</string>
+
+
+    <string name="abot_definition">Ito ang tawag kung saan kaya mong kunin ang isang bagay</string>
+    <string name="abot_singkahulugan">Kunin</string>
+
+    <string name="abubot_definition">Isang impormal na salita para sa mga kalat</string>
+    <string name="abubot_singkahulugan">Kalat, bagay</string>
+
+    <string name="gunita_definition">Memorya, alaala</string>
+    <string name="gunita_singkahulugan">Naalala, natandaan</string>
+
+    <string name="indak_definition">Isang uri ng sayaw</string>
+    <string name="indak_singkahulugan">Sayaw</string>
+
+    <string name="takipsilim_definition">Panahon pagkatapos lumubog araw at nagsisimula nang dumilim</string>
+    <string name="takipsilim_singkahulugan">Dapit hapon, bisperas</string>
+
+    <string name="makisig_definition">Pang uri na ang ibig sabihin ay gwapo</string>
+    <string name="makisig_singkahulugan">Gwapo, pogi, elegante</string>
+
+    <string name="likha_definition">Pandiwa na ang ibig sabihin ay gumawa ng isang bagay</string>
+    <string name="likha_singkahulugan">Imbento, gawa</string>
+
+    <string name="tampo_definition">Pang uri kung saan ang isang tao ay may hinanakit sa isa pang tao at gusto nilang makipag ayos yung nakasakit</string>
+    <string name="tampo_singkahulugan">Pagdadrama, Pabebe</string>
+
+    <string name="pikon_definition">Mabilis mainis sa pang aasar</string>
+    <string name="pikon_singkahulugan">Mainitin ang ulo</string>
+
+    <string name="bahaghari_definition">Makulay na tanawin sa langit pagkatapos umulan</string>
+    <string name="bahaghari_singkahulugan">"Rainbow"</string>
+
+    <string name="panis_definition">Tawag sa nasirang pagkain</string>
+    <string name="panis_singkahulugan">Bulok</string>
+
+    <string name="salamat_definition">Salitang nagpapahayag ng pagpapahalaga sa isang bagay na nagawa ng isang tao</string>
+    <string name="salamat_singkahulugan">Pagkilala sa utang na loob</string>
+
+    <string name="balintiyak_definition">Isang uri ng pandiwa sa balarila</string>
+    <string name="balintiyak_singkahulugan">Pasibo</string>
+
+    <string name="kapitbahay_definition">Tawag sa katabing bahay</string>
+    <string name="kapitbahay_singkahulugan">Kapwa</string>
+
+    <string name="bisperas_definition">Tawag sa gabi bago maganap ang isang okasyon o pangyayari</string>
+    <string name="bisperas_singkahulugan">Takipsilim, dapithapon</string>
+
+    <string name="salumpuwit_definition">Patungan ng puwit</string>
+    <string name="salumpuwit_singkahulugan">Silya, upuan</string>
+
+    <string name="alsa_definition"></string>
+    <string name="alsa_singkahulugan"></string>
+
+    <string name="diskwento_definition"></string>
+    <string name="diskwento_singkahulugan"></string>
+
+    <string name="dugongbughaw_definition"></string>
+    <string name="dugongbughaw_singkahulugan"></string>
+
+    <string name="ilalim_definition"></string>
+    <string name="ilalim_singkahulugan"></string>
+
+    <string name="kaso_definition"></string>
+    <string name="kaso_singkahulugan"></string>
+
+    <string name="opera_definition"></string>
+    <string name="opera_singkahulugan"></string>
+
+    <string name="pamamalakad_definition"></string>
+    <string name="pamamalakad_singkahulugan"></string>
+
+    <string name="patay_definition"></string>
+    <string name="patay_singkahulugan"></string>
+
+    <string name="unan_definition"></string>
+    <string name="unan_singkahulugan"></string>
+
+    <string name="dagat_definition">Isang uri ng yamang tubig</string>
+    <string name="dagat_singkahulugan"> </string>
+
+    <string name="balahibo_definition">Tawag sa buhok sa katawan ng hayop</string>
+    <string name="balahibo_singkahulugan"> </string>
+
+    <string name="pooksapot_definition">Isang “webpage” kung maituturing</string>
+    <string name="pooksapot_singkahulugan"> </string>
+
+    <string name="pasma_definition">Pang uri kung saan ang kamay ay nanginginig o nagpapawis ng sobra</string>
+    <string name="pasma_singkahulugan"> </string>
+
+    <string name="pambahay_definition">Isang klasipikasyon ng kasuotan na ginagamit sa bahay</string>
+    <string name="pambahay_singkahulugan"> </string>
+
+    <string name="gigil_definition">pakiramdam kung saan hindi mo makontrol ang iyong emosyon</string>
+    <string name="gigil_singkahulugan"> </string>
+
+
+    <string name="tulong">Hulaan ng tama ang tamang sagot base sa mga litrato na ipapakita.\n\n Tamang Sagot - 10 na puntos\n\n Maling Sagot - -5 na puntos\n\n Mababawasan ng 5 puntos pag gumamit ng mga pahiwating o hints. </string>
+</resources>

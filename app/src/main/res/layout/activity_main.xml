@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/menu">
+
+
+    <ImageButton
+        android:layout_width="350dp"
+        android:layout_height="75dp"
+        android:id="@+id/imageButton31"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="185dp"
+        android:src="@drawable/maglaro"
+        android:scaleType="fitCenter"
+        android:background="@null"/>
+
+    <ImageButton
+        android:layout_width="350dp"
+        android:layout_height="60dp"
+        android:id="@+id/imageButton32"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="265dp"
+        android:src="@drawable/tulong"
+        android:scaleType="fitCenter"
+        android:background="@null"/>
+
+    <ImageButton
+        android:layout_width="350dp"
+        android:layout_height="95dp"
+        android:id="@+id/imageButton33"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="325dp"
+        android:src="@drawable/impormasyon"
+        android:scaleType="fitCenter"
+        android:background="@null"/>
+
+
+</RelativeLayout>

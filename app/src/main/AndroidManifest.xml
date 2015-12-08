@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sony.muni_muni" >
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo_transparent"
+        android:label="Muni-Muni"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".SplashScreen"
+            android:label="Muni-Muni" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="Muni-Muni"
+            android:theme="@style/AppTheme" >
+            <intent-filter>
+                <action android:name="com.coderefer.androidsplashscreenexample.MAINACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".HelpActivity"
+            android:label="@string/title_activity_help"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".RankingsActivity"
+            android:label="@string/title_activity_rankings"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".InfoActivity"
+            android:label="@string/title_activity_info"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".AbotActivity"
+            android:label="@string/title_activity_abot"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".SalamatActivity"
+            android:label="@string/title_activity_salamat"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".PamamalakadActivity"
+            android:label="@string/title_activity_pamamalakad"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".PanisActivity"
+            android:label="@string/title_activity_panis"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".DagatActivity"
+            android:label="@string/title_activity_dagat"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".GunitaActivity"
+            android:label="@string/title_activity_gunita"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".Levels"
+            android:label="@string/title_activity_levels"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".Level1"
+            android:label="@string/title_activity_level1"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".Level2"
+            android:label="@string/title_activity_level2"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".Level3"
+            android:label="@string/title_activity_level3"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".Level4"
+            android:label="@string/title_activity_level4"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".Level5"
+            android:label="@string/title_activity_level5"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".KasoActivity"
+            android:label="@string/title_activity_kaso"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".PambahayActivity"
+            android:label="@string/title_activity_pambahay"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".BalahiboActivity"
+            android:label="@string/title_activity_balahibo"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".OperaActivity"
+            android:label="@string/title_activity_opera"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".PatayActivity"
+            android:label="@string/title_activity_patay"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".PikonActivity"
+            android:label="@string/title_activity_pikon"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".AbubotActivity"
+            android:label="@string/title_activity_abubot"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".BahaghariActivity"
+            android:label="@string/title_activity_bahaghari"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".PooksapotActivity"
+            android:label="@string/title_activity_pooksapot"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".IlalimActivity"
+            android:label="@string/title_activity_ilalim"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".MakisigActivity"
+            android:label="@string/title_activity_makisig"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".BisperasActivity"
+            android:label="@string/title_activity_bisperas"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".IndakActivity"
+            android:label="@string/title_activity_indak"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".DiskwentoActivity"
+            android:label="@string/title_activity_diskwento"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".BalintiyakActivity"
+            android:label="@string/title_activity_balintiyak"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".UnanActivity"
+            android:label="@string/title_activity_unan"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".GigilActivity"
+            android:label="@string/title_activity_gigil"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".LikhaActivity"
+            android:label="@string/title_activity_likha"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".DugongbughawActivity"
+            android:label="@string/title_activity_dugongbughaw"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".AlsaActivity"
+            android:label="@string/title_activity_alsa"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".PasmaActivity"
+            android:label="@string/title_activity_pasma"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".SalumpuwitActivity"
+            android:label="@string/title_activity_salumpuwit"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".TakipsilimActivity"
+            android:label="@string/title_activity_takipsilim"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".TampoActivity"
+            android:label="@string/title_activity_tampo"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+    </application>
+
+</manifest>

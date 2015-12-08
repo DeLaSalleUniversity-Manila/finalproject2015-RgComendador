@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg">
+
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:id="@+id/imageView"
+        android:background="@null"
+        android:src="@drawable/balahibo"
+        android:layout_marginTop="113dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="75dp"
+        android:scaleType="fitXY"
+        android:id="@+id/openpopup1"
+        android:layout_below="@+id/imageView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:text="Depinisyon" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="75dp"
+        android:scaleType="fitXY"
+        android:id="@+id/openpopup2"
+        android:layout_below="@+id/openpopup1"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:text="Singkahulugan" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText"
+        android:layout_below="@+id/openpopup2"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignRight="@+id/imageView"
+        android:layout_alignEnd="@+id/imageView" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SAGOT"
+        android:id="@+id/answer"
+        android:layout_alignTop="@+id/editText"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_toRightOf="@+id/editText"
+        android:layout_toEndOf="@+id/editText" />
+
+</RelativeLayout>
